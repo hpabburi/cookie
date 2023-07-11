@@ -1,0 +1,16 @@
+
+create table sampledata(
+Name varchar(30),
+age int,
+phone_number int,
+state varchar(30));
+
+insert into sampledata(Name,age,phone_number,state)
+values ('Hari priya',37,201234568,'virginia'),
+('Viraj',7,1234567890,'virginia'),
+('Srikanth',37,2345678901,'Virginia'),
+('Leela',64,3456789012,'Andhra pradesh'),
+('Ram',66,5678901234,'Andhra pradesh'),
+('Girija',63,6789012345,'Andhra pradesh'),
+('Hari priya',37,201234568,'virginia'),
+ ('Viraj',7,1234567890,'virginia');
